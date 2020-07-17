@@ -1,4 +1,4 @@
-from ChessShowPiece.tile import Tile
+from Chess.tile import Tile
 
 class Board:
 

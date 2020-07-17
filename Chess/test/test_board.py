@@ -1,5 +1,5 @@
-from ChessShowPiece.board import Board
-from ChessShowPiece.tile import Tile
+from Chess.board import Board
+from Chess.tile import Tile
 import pytest
 
 def test_board_is_a_dict():

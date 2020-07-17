@@ -1,5 +1,5 @@
-from ChessShowPiece.tile import Tile 
-from ChessShowPiece.board import Board
+from Chess.tile import Tile 
+from Chess.board import Board
 
 def test_init_should_set_row():
     test_board = Board()
